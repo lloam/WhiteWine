@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">白酒管理系统</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="size_text">25sp</string>
+</resources>
